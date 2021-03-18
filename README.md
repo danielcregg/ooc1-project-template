@@ -24,15 +24,15 @@ List the instructions step by step
 
 Describe how you have met all minimum project requirements below:
 
-* The repository contains, at minimun, two commits per week (Note: There should be many commits per day coding).
-* The project, including code and documentation, will be fully contained in the provided Git Classroom repo.
-* Methods = Load DB, Add Item, Delete Item, Find item by ID/Name, Show total items, Save to DB, Quit.
+* The repository contains, at minimum, two commits per week (Note: There should be many commits per day coding).
+* The project, including code and documentation, is fully contained in the provided GitHub Classroom repository.
+* Methods = Add Item, Remove Item, Update Item, Find total items, Search Items and Quit.
 * The code MUST compile. 30% grade reduction if code does not compile.
 * The application code must be formatted in a consistent and standard way.
 * The code must contain comments. One comment per class, method and variable at minimum.
 * The documentation and commentary must be free of a grammar and speling mistakes.
 
-## Project Requirments above and beyond
+## Project Requirements above and beyond
 
 Discuss any application features or design elements that show you went above and beyond basic requirements.
 
