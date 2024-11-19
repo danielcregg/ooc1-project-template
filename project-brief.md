@@ -20,10 +20,9 @@ The application must manage objects of the type you have chosen from the `Projec
 
 ## ⭐ Enhanced Features
 To achieve a higher grade, consider implementing:
-- Additional design features not seen in labs
-- Additional functionality not seen in labs
-- Progressive Web App (PWA) implementation
-- App store deployment
+- Go above and beyond the minimum by adding extra methods (e.g., a method to list all objects by their unique ID in the array) and features (e.g., ask the user to choose the size of the array) to your application which you have researched yourself. Document any extra methods or features in your README.
+- Create an animated gif of you using your application and add it to your Readme.
+- Create an executable jar file that opens your application independently and include this in your GitHub repository. 
 
 ## 📊 Project Submission Process
 You **must** folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
@@ -31,7 +30,7 @@ You **must** folow this subission process carefully. If you miss any part, espec
 ### 1. Screencast Demonstration
 - 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream)
 - Give a brief code walkthrough highlghting places where you expended most of your effort
-- Demonstrate your GUI running and its operation  
+- Demonstrate your app running and its operation  
 - Highlight any additional functionality you implemented
 - **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
 
