@@ -9,23 +9,14 @@ The application must manage objects of the type you have chosen from the `Projec
 - The README file should contain clear instructions for compiling, deploying, and running the application. It should also briefly outline the nature of the project and detail the set of features it contains. All sections of the README template must be filled out and add more sections if you please. 
 
 ## 🛠️ Minimum Feature Requirements
-- Use of standalone components
-  5 Ionic UI components
-- Custom service implementation
-- Backend as a Service (BaaS) integration (e.g. Firebase, SupaBase etc.)
-- AI integration
-- Capacitor native plugin integration
-- Angular router navigation
+- Your chosen object must have 4 instance variables of 4 different types (e.g., String, int, float, boolean).
+- Your porject code must utilise the 4 Pillars of OOP (i.e., Encapsulation, Inheritance, Polymorphism and Abstraction) 
+- Methods to add, delete, count total and find objects in an array.
 
 ## 📝 Coding Standards
 - Your code must compile
 - Consistent code formatting
-- Comprehensive documentation through comments
-  - Class-level documentation
-  - Method-level documentation
-  - Variable-level documentation
-- Proper error handling
-- Adherence to Angular/Ionic best practices and use of latest Angular tools (e.g. @if and @for)
+- Code commentary is essential. Comment every class and method at minimum. 
 
 ## ⭐ Enhanced Features
 To achieve a higher grade, consider implementing:
