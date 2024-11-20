@@ -36,8 +36,8 @@ You **must** folow this subission process carefully. If you miss any part, espec
 
 ### 2. Moodle Submission
 - [Download a copy of your final Git repository from the GitHub website.](https://youtube.com/shorts/4bDLccFjQyc?si=dWUDWoW4B_tnADty)
+- In the submission area on Moodle, where you will upoad your zipped project, you will see a text box in which you will be able to enter text (See sample below). Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
 - Upload this zip file under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
-- In the submission area on Moodle, where you upoad your project, you will see a text box in which you will be able to enter text (See sample below). Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
 - Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
 
   #### Sample Textbox Input
