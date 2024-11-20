@@ -1,4 +1,5 @@
 {
+    "workbench.startupEditor":"none",
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "files.exclude": {
@@ -22,5 +23,4 @@
         "tree.indentGuidesStroke": "#05ef3c"
     },
     "workbench.colorTheme": "Default Dark Modern",
-    "workbench.startupEditor": "none",
 }
