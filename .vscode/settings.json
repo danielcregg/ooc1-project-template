@@ -11,7 +11,8 @@
     "java.server.launchMode": "Standard",
     "java.dependency.packagePresentation": "flat",
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "./"
     ],
     "java.project.explorer.showNonJavaResources": true,
     "redhat.telemetry.enabled": false,
