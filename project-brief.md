@@ -1,6 +1,6 @@
 # Object Oriented Computing - Project Assessment
 For this project you are required to design and develop a Java application that demonstrates the 4 Pillars of OOP (i.e., Encapsulation, Inheritance, Polymorphism and Abstraction).
-The application must manage objects of the type you have chosen from the `Project Object Choice List`, which is available on the Moodle page.
+The application must manage objects of the type you have chosen from the `Project Object Choice List`, which is available on the Moodle page. You will use an array to store and manage the objects.
 
 ## ⚡ Minimum Project Requirments
 - You must use the Project GitHub Repository provided to you on the Moodle page. No other development set up will be acceptable. This link to create your repository can be found under the `Project Assessment` section on Moodle. You need to click on the link to create your repository. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application. Please note, no materials outside of your GitHub repository are gradable. Using another GitHub repository or not using GitHub at all for this project will incur a penalty of 60%. If you do not understand what is meant by this, then email me before you begin your project.
