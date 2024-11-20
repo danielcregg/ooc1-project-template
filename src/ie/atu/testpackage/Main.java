@@ -1,4 +1,4 @@
-package ie.gmit.testpackage;
+package ie.atu.testpackage;
 
 /**
  * This is the Main class. It contains the main method.
