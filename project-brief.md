@@ -9,6 +9,7 @@ The application must manage objects of the type you have chosen from the `Projec
 - The README file should contain clear instructions for compiling, deploying, and running the application. It should also briefly outline the nature of the project and detail the set of features it contains. All sections of the README template must be filled out and add more sections if you please. 
 
 ## 🛠️ Minimum Feature Requirements
+The application must incorporate, at minimum, the following features:
 - Your chosen object must have 4 instance variables of 4 different types (e.g., String, int, float, boolean).
 - Your porject code must utilise the 4 Pillars of OOP (i.e., Encapsulation, Inheritance, Polymorphism and Abstraction) 
 - Methods to add, delete, count total and find objects in an array.
